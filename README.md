@@ -1,5 +1,11 @@
 ### Hi there 👋
-
+- 📖 Interesting reads: 
+  - [The Ten Commandments of Egoless Programming] (https://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/)
+  - ....
+- 🎵 Interesting podcasts to follow: 
+  - [99% Invisible](https://99percentinvisible.org/)
+  - [Frontend Happy Hour](https://frontendhappyhour.com/)
+  - [Syntax](https://syntax.fm/)
 <!--
 **mike-contreras/mike-contreras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
