@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 📖 Interesting reads: 
-  - [The Ten Commandments of Egoless Programming] (https://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/)
+  - [The Ten Commandments of Egoless Programming](https://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/)
   - ....
 - 🎵 Interesting podcasts to follow: 
   - [99% Invisible](https://99percentinvisible.org/)
